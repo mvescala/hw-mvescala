@@ -1,0 +1,39 @@
+Manuel Escalante
+
+
+Part A:
+1, 4, 8
+
+Part B:
+1, 2, 3, 4
+
+Part C:
+2, 3
+
+Part D:
+1?
+
+#2
+A: 1, 3
+B: 
+1. git add hw1q2b.cpp
+2. git log
+3. It will throw an error because you are 
+missing the commit message
+
+
+#4
+Output:
+1 2 3 4
+10 6 7 8
+31 10 11 12
+
+This program takes n arrays of length m (3,4) of ints.
+Func1 is a recursive function that changes the 0th
+value in each array of ints, except for the 0th array.
+For each other array, func2 is a helper function used
+to add up all of the ints in the array before it.
+The sum of the array before becomes the new 0th value.
+
+
+
